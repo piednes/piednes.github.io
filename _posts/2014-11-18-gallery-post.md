@@ -4,7 +4,7 @@ title: Gallery Post
 date: 2020-11-11 13：42：42
 category: Photo
 photos:
-- https://s1.ax1x.com/2020/11/11/BXxlWV.jpg
+- http://img02.sogoucdn.com/app/a/100520146/b72c5c0c5f54d459bcb52cc2463953ec
 tags:
 - consectetur
 description: Gallery Post Test. 测试图片类文章的显示。

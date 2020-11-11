@@ -4,7 +4,7 @@ title: Gallery Post
 date: 2020-11-11 13：42：42
 category: Photo
 photos:
--https://s1.ax1x.com/2020/11/11/BvPgVU.jpg
+- https://s1.ax1x.com/2020/11/11/BvPgVU.jpg
 tags:
 - consectetur
 description: Gallery Post Test. 测试图片类文章的显示。

@@ -4,7 +4,7 @@ title: Gallery Post
 date: 2020-11-11 13：42：42
 category: Photo
 photos:
-- http://img04.sogoucdn.com/app/a/100520146/c10a4078aed26d224302a3851cb1f05f
+- http://m.ufoto.com.cn/wap/#/login-free/feed-detail/5797533
 tags:
 - consectetur
 description: Gallery Post Test. 测试图片类文章的显示。

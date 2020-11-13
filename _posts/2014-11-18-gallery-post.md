@@ -7,7 +7,7 @@ photos:
 
 
 
-- https://pic.downk.cc/item/5fae78c51cd1bbb86ba4185c.jpg
+- https://pic.downk.cc/item/5fae7dd31cd1bbb86ba566cd.jpg
 tags:
 - consectetur
 description: Gallery Post Test. 测试图片类文章的显示。

@@ -4,7 +4,7 @@ title: Gallery Post
 date: 2020-11-11 13：42：42
 category: Photo
 photos:
-- http://m.ufoto.com.cn/wap/#/login-free/feed-detail/5797533
+-http://photo-static-cdn.ufoto.com.cn/upload/tiny/3375438/590ebc08-6663-4077-b447-f932372c6fa2.jpg
 tags:
 - consectetur
 description: Gallery Post Test. 测试图片类文章的显示。

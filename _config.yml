@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 
+title: Piednes'backyard
 subtitle:
 description:
-author: Piednes
+author: John Doe
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -151,8 +151,8 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-#scheme: Muse
-scheme: Mist
+scheme: Muse
+#scheme: Mist
 #scheme: Pisces
 
 
@@ -213,8 +213,8 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-social:
-  GitHub: https://github.com/piednes
+#social:
+  #LinkLabel: Link
 
 
 # Social Links Icons
@@ -362,8 +362,8 @@ highlight_theme: normal
 
 # MathJax Support
 mathjax:
-  enable: true
-  per_page: true
+  enable: false
+  per_page: false
   cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
 
 # Han Support docs: https://hanzi.pro/
@@ -372,8 +372,8 @@ han: false
 # Swiftype Search API Key
 #swiftype_key:
 
- Baidu Analytics ID
- baidu_analytics:93402960ea772bbd38efb6e90142b695
+# Baidu Analytics ID
+#baidu_analytics:
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -586,7 +586,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: true
+  enable: false
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto

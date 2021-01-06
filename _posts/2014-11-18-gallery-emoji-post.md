@@ -15,6 +15,8 @@ description: Gallery Post Test. 测试图片类文章的显示。
 
 ![](https://pic.downk.cc/item/5fd366d83ffa7d37b3f0e9fa.jpg)
 
+![](https://pic.downk.cc/item/5ff528d63ffa7d37b361ccf9.jpg)
+
 This is a image test post.
 
 ![](https://pic.downk.cc/item/5fae7dd31cd1bbb86ba566cd.jpg)

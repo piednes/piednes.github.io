@@ -175,3 +175,174 @@ since: 2013
 ## Browser support
 
 ![Browser support](http://iissnan.com/nexus/next/browser-support.png)
+
+
+
+
+
+This is a highlight test.
+
+# Normal block
+
+```
+alert('Hello World!');
+```
+
+    print 'helloworld'
+
+# Highlight block
+
+```javascript
+alert( 'Hello, world!' );
+```
+
+```python
+print 'helloworld'
+```
+
+```ruby
+def foo
+  puts 'foo'
+end
+```
+
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
+{% highlight ruby linenos %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
+```c++
+#include <iostream>
+
+using namespace std;
+
+void foo(int arg1, int arg2)
+{
+
+}
+
+int main()
+{
+  string str;
+  foo(1, 2);
+  cout << "Hello World" << endl;
+  return 0;
+}
+```
+
+
+
+
+
+
+
+
+The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don't forget to redefine the style by yourself.
+
+---
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
+
+---
+
+## Paragraph
+
+ok
+
+
+
+> Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.
+
+
+## List Types
+
+### Definition List (dl)
+
+<dl><dt>Definition List Title</dt><dd>This is a definition list division.</dd></dl>
+
+### Ordered List (ol)
+
+1. List Item 1
+2. List Item 2
+3. List Item 3
+
+### Unordered List (ul)
+
+- List Item 1
+- List Item 2
+- List Item 3
+
+## Table
+
+| Table Header 1 | Table Header 2 | Table Header 3 |
+| --- | --- | --- |
+| Division 1 | Division 2 | Division 3 |
+| Division 1 | Division 2 | Division 3 |
+| Division 1 | Division 2 | Division 3 |
+
+## Misc Stuff - abbr, acronym, sub, sup, etc.
+
+Lorem <sup>superscript</sup> dolor <sub>subscript</sub> amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. <cite>cite</cite>. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. <acronym title="National Basketball Association">NBA</acronym> Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  <abbr title="Avenue">AVE</abbr>
+
+
+
+This post is used for testing tag plugins. See [docs](http://zespia.tw/hexo/docs/tag-plugins.html) for more info.
+
+## Block Quote
+
+### Normal blockquote
+
+> Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.
+
+## Code Block
+
+### Inline code block
+
+This is a inline code block: `python`, `print 'helloworld'`.
+
+### Normal code block
+
+```
+alert('Hello World!');
+```
+
+    print "Hello world"
+
+### Highlight code block
+
+```python
+print "Hello world"
+```
+
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
+{% highlight ruby linenos %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
+### Gist
+
+{% gist 996818 %}

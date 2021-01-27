@@ -41,7 +41,7 @@ To load the MathJax javascript, I added the following lines in my layout ```post
 </script>
 {% endhighlight %}
 
-Of course you can choose a different file location in your jekyll layouts. 
+Of course you can choose a different file location in your jekyll layouts.
 
 Note that by default, the **tex2jax** preprocessor defines the
 LaTeX math delimiters, which are ```\\(...\\)``` for in-line math, and ```\\[...\\]``` for

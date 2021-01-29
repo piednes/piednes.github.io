@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MathJax with Jekyll"
-date: 2020-11-17
+date: 2020-11-17 11:11:11
 categories: opinion
 image: http://gastonsanchez.com/images/blog/mathjax_logo.png
 ---

@@ -1,12 +1,7 @@
 ---
 title: 图文测试
 link: http://piednes.github.io/
-category:
-- 图文
-- 测试
-tags:
-- 图文测试
-description: 测试图文类文章的显示。
+category: test
 ---
 ![](https://pic.downk.cc/item/5fae7fd71cd1bbb86ba601f0.jpg)
 ![](https://pic.downk.cc/item/5fae7fb11cd1bbb86ba5e95b.jpg)

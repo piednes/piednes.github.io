@@ -2,7 +2,7 @@
 title: 图文测试
 link: http://piednes.github.io/
 category: test
-description:
+description: 中文测试
 ---
 
 ![](https://pic.downk.cc/item/5fae7fd71cd1bbb86ba601f0.jpg)

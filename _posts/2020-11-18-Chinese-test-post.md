@@ -2,8 +2,8 @@
 type: photo
 title: Picture and text
 category:
-- Photo
-- text
+- 图文
+- 测试
 tags:
 - 图文测试
 description: Chinese Post Test. 测试图文类文章的显示。

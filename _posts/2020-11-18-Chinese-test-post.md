@@ -1,4 +1,9 @@
 ---
+type: photo
+title: Gallery and emoji
+category: Photo
+description: Gallery Post Test. 测试图片类文章的显示。
+---
 
 
 

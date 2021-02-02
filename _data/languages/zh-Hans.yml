@@ -1,9 +1,9 @@
 title:
-  archive: 归档
+  archive: 时间线
   category: 分类
   tag: 标签
   schedule: 日程表
-  archives: 归档
+  archives: 时间线
   categories: 分类
   tags: 标签
   about: 关于
@@ -12,7 +12,7 @@ author: 博主
 
 menu:
   home: 首页
-  archives: 归档
+  archives: 时间线
   categories: 分类
   tags: 标签
   about: 关于

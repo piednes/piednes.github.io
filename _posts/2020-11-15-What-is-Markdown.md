@@ -1,6 +1,8 @@
 ---
 title: Markdown怎么写
-category: 教程
+category:
+- 教程
+- 转载
 ---
 
 

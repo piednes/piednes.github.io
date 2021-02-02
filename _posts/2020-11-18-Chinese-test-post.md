@@ -1,5 +1,4 @@
 ---
-type: photo
 title: 图文测试
 link: http://piednes.github.io/
 category:

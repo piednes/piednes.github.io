@@ -1,4 +1,5 @@
 ---
+title: "MathJax with Jekyll"
 title: This is a test post
 categories: test
 

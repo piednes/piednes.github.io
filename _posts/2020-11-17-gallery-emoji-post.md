@@ -1,6 +1,6 @@
 ---
 title: 图片收集与表情显示
-category: 图文测试
+category: 图文
 description: Gallery Post Test.
 ---
 

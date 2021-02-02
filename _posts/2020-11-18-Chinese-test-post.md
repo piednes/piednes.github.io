@@ -6,7 +6,7 @@ category:
 - 测试
 tags:
 - 图文测试
-description: Chinese Post Test. 测试图文类文章的显示。
+description: 测试图文类文章的显示。
 ---
 ![](https://pic.downk.cc/item/5fae7fd71cd1bbb86ba601f0.jpg)
 ![](https://pic.downk.cc/item/5fae7fb11cd1bbb86ba5e95b.jpg)

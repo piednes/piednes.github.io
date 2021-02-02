@@ -3,6 +3,7 @@ title: Jekyll官方教程
 category:
 - 教程
 - 转载
+tags: jekyll
 ---
 
 One of the rewards of switching my website to [Jekyll](http://jekyllrb.com/) is the

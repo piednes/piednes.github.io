@@ -1,5 +1,9 @@
 ---
-This is a test post.
+title: This is a test post
+categories: test
+
+
+
 
 ![](https://pic.downk.cc/item/5fae7fd71cd1bbb86ba601f0.jpg)
 ![](https://pic.downk.cc/item/5fae7fb11cd1bbb86ba5e95b.jpg)

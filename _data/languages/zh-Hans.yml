@@ -1,11 +1,11 @@
 title:
   archive: 时间线
   category: 分类
-  tag: 标签
+  tag: 关键词
   schedule: 日程表
   archives: 时间线
   categories: 分类
-  tags: 标签
+  tags: 关键词
   about: 关于
 
 author: 博主
@@ -14,7 +14,7 @@ menu:
   home: 首页
   archives: 时间线
   categories: 分类
-  tags: 标签
+  tags: 关键词
   about: 关于
   search: 搜索
   schedule: 日程表
@@ -46,7 +46,7 @@ post:
 
 page:
   totally: 共有
-  tags: 标签
+  tags: 关键词
 
 footer:
   powered: "由 %s 提供支持"
@@ -54,9 +54,9 @@ footer:
 
 counter:
   tag_cloud:
-    zero: 暂无标签
-    one: 目前共计 1 个标签
-    other: "目前共计 %d 个标签"
+    zero: 暂无关键词
+    one: 目前共计 1 个关键词
+    other: "目前共计 %d 个关键词"
 
   categories:
     zero: 暂无分类
@@ -71,7 +71,7 @@ counter:
 state:
   posts: 日志
   pages: 页面
-  tags: 标签
+  tags: 关键词
   categories: 分类
 
 search:

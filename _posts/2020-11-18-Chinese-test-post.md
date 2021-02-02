@@ -1,6 +1,5 @@
 ---
 title: 图文测试
-link: http://piednes.github.io/
 category: test
 description: 中文测试
 ---

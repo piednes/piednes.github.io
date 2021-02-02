@@ -2,5 +2,4 @@
 layout: page
 type: about
 ---
-
-Building...
+<blockquote class="blockquote-center">blah blah blah</blockquote>

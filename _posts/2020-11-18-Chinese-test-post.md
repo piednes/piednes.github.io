@@ -1,6 +1,6 @@
 ---
 type: photo
-title: Picture and text
+title: 图文测试
 category:
 - 图文
 - 测试

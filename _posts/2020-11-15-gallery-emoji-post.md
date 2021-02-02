@@ -1,6 +1,6 @@
 ---
 type: photo
-title: Gallery and emoji 
+title: Gallery and emoji
 date: 2020-11-15 13：37：37
 category: Photo
 description: Gallery Post Test. 测试图片类文章的显示。

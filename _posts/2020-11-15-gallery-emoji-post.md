@@ -1,9 +1,7 @@
 ---
-type: photo
-title: Gallery and emoji
-date: 2020-11-15 13：37：37
-category: Photo
-description: Gallery Post Test. 测试图片类文章的显示。
+title: 图片收集与表情显示
+category: 图文测试
+description: Gallery Post Test. 
 ---
 
 ![Wallhaven - dgnfly (wallhaven.cc/wallpaper/1384450)](https://w.wallhaven.cc/full/ym/wallhaven-ym2del.png)

@@ -8,8 +8,8 @@ title: Piednes'backyard
 subtitle:
 description: 人之相与，俯仰一世。虽趣舍万殊，静躁不同，当其欣于所遇，暂得于己，快然自足。
 author: Piesnes
-# Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+# Support language: de, en, ru, zh-Hans
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL

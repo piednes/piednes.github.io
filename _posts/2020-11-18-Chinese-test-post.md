@@ -4,6 +4,8 @@ title: Picture and text
 category:
 - Photo
 - text
+tags:
+- 图文测试
 description: Chinese Post Test. 测试图文类文章的显示。
 ---
 ![](https://pic.downk.cc/item/5fae7fd71cd1bbb86ba601f0.jpg)

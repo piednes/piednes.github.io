@@ -6,5 +6,5 @@ type: about
 
  | Contect me | link |
  | ------ | ------- |
- | bilibili | [https://space.bilibili.com/214366078](https://space.bilibili.com/214366078) |
+ | bilibili | [https://space.bilibili.com/21436607](https://space.bilibili.com/214366078) |
  | mail | 1084390108@qq.com |
